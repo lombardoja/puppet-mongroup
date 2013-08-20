@@ -1,21 +1,22 @@
 {
-  "name": "jlombardo-mongroup",
+  "name": "jl-mongroup",
   "version": "0.1.0",
-  "summary": "",
-  "author": "",
-  "description": "",
+  "summary": "Mongroup module",
+  "author": "Joseph Lombardo",
+  "description": "Install, enable and configure Mongroup, the node mon wrapper.",
   "dependencies": [],
   "types": [],
   "checksums": {
-    "Modulefile": "64dfc06bd2c38c3e56128d150875adae",
+    "LICENSE": "e4af70f2dca2d7e1a996f28d27a6e48b",
+    "Modulefile": "016ae8359c30a7409dd4dee65beb2d17",
     "README.markdown": "10df9670230f446ac891a3135407b983",
     "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
-    "manifests/init.pp": "ecf19a2160845bf0d1ab93b0223e4045",
+    "manifests/init.pp": "a45dbb71d954d63351be3f73ba211b89",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
     "tests/init.pp": "669c0ca12b9e8ec3aa31c83383a7ad9c"
   },
-  "source": "",
-  "project_page": "",
+  "source": "git://github.com/lombardoja/puppet-mongroup",
+  "project_page": "https://github.com/lombardoja/puppet-mongroup",
   "license": "Apache 2.0"
 }
